@@ -613,5 +613,21 @@ fieldset[disabled] .btn-danger.active {
 
 
 
+html, body, div, p {
+    font-family: 'Georgia', serif;
+    font-size: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif;
+}
+
+.container.master-container {
+    max-width: 700px;
+}
+.book-row {
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
+
 
 
